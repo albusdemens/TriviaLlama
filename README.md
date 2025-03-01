@@ -2,6 +2,8 @@
 
 In this Roblox demo, every time the character jumps over a cube, new Ollama-generated text is displayed.
 
+![TriviaLlama Demo Screenshot](Roblox.jpg)
+
 ## Getting Started
 
 The system uses a bridge architecture:
